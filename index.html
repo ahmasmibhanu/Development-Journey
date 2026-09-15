@@ -5,6 +5,16 @@
 </head>
 
 <body>
+
+  <script>
+    const button=document.getElementById("helloButton");
+    const message=document.getElementById("message");
+
+    button.addEventListener("click", function() {
+      message.textContent = "👋 Hello! Welcome to my Development Journey!";
+    });
+  </script>
+  
   <h1> Bhanu Pratap</h1>
   
   <p>Aspiring Developer 🚀</p>
@@ -17,7 +27,9 @@
     <li>JavaScript</li>
   </ul>
 
-  <button>Say Hello</button>
+  <button id="helloButton">Say Hello</button>
+  <p id="message"></p>
+  
   
 </body>
 </html>
