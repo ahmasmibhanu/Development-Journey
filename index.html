@@ -19,15 +19,18 @@
   </ul>
 
   <button id="helloButton">Say Hello</button>
-  <p id="message"></p>
+  <p id="message">You clicked the button 0 times.</p>
 
   
   <script>
     const button = document.getElementById("helloButton");
     const message = document.getElementById("message");
 
+    let clickCount = 0;
+    
     button.addEventListener("click", function() {
-      message.textContent = "👋 Hello! Welcome to my Development Journey!";
+      clickCount = clickCount + 1;
+      message.textContent = "👋 Hello! Welcome to my Development Journey! You clicked this button " +clickCount + " times.";
     });
   </script>
   
