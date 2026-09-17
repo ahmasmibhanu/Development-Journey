@@ -30,8 +30,16 @@
     
     button.addEventListener("click", function() {
       clickCount = clickCount + 1;
-      message.textContent = "👋 Hello! Welcome to my Development Journey! You clicked this button " +clickCount + " times.";
-    });
+
+      if (clickCount<=2){
+      message.textContent = "👋 Hello! Welcome to my Development Journey! You clicked this button " +clickCount + " times. Go for more clicks👆";
+      } else if (clickCount<=5){
+      message.textContent = "👋 Hello! Welcome to my Development Journey! You clicked this button " +clickCount + " times. Nice! Keep Going! 🔥";
+      } else {
+      message.textContent = "👋 Hello! Welcome to my Development Journey! You clicked this button " +clickCount + " times. Whoa! You're on a roll! 🚀";
+      }
+      
+      });
   </script>
   
 </body>
