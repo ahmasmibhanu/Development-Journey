@@ -19,12 +19,9 @@ A collection of small projects, experiments, exercises, and notes created while 
 
 ## 🎯 About
 
-This repository contains my learning journey through software development.
-Each directory contains a small project or exercise focused on a particular
-concept, technology, or development skill.
+This repository contains my learning journey through software development. Each directory contains a small project or exercise focused on a particular concept, technology, or development skill.
 
-The projects range from simple beginner exercises to more advanced
-experiments as my understanding improves.
+The projects range from simple beginner exercises to more advanced experiments as my understanding improves.
 
 ---
 
