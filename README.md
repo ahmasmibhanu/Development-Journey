@@ -67,21 +67,21 @@ The projects range from simple beginner exercises to more advanced experiments a
 ---
 
 ## 📁 Repository Structure
-
-learning-development/. 
-│. 
-├── 01-calculator/. 
-├── 02-todo-app/. 
-├── 03-weather-app/. 
-├── 04-blog-api/. 
-│. 
-├── notes/. 
-│   ├── git.md. 
-│   ├── python.md. 
-│   └── databases.md. 
-│. 
-└── README.md. 
-
+```
+learning-development/
+│
+├── 01-calculator/
+├── 02-todo-app/
+├── 03-weather-app/
+├── 04-blog-api/
+│
+├── notes/
+│   ├── git.md
+│   ├── python.md
+│   └── databases.md
+│
+└── README.md
+```
 ---
 
 ## 🖋 How to Use
