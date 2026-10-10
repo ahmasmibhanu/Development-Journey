@@ -1,5 +1,3 @@
-Hello!
-
 # Development Learning Repository
 
 A collection of small projects, experiments, exercises, and notes created while learning software development.
@@ -86,11 +84,9 @@ learning-development/
 
 ## 🖋 How to Use
 
-
 ---
 
 ## 📈 Progress
-
 
 ---
 
