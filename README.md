@@ -28,8 +28,8 @@ The projects range from simple beginner exercises to more advanced experiments a
 | Project | Description | Technologies | Status |
 |---|---|---|---|
 | 01. Calculator | Simple calculator application | Python | ✅ Complete |
-| 02. Todo App | Basic CRUD application | JavaScript | ✅ Complete |
-| 03. Weather App | Fetches weather from an API | JavaScript, API | 🚧 In Progress |
+| 02. Todo App | Basic CRUD application | JavaScript | 🚧 In Progress |
+| 03. Weather App | Fetches weather from an API | JavaScript, API | 📌 Planned |
 | 04. Blog API | REST API for a blog | Python, FastAPI | 📌 Planned |
 
 ---
