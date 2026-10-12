@@ -31,6 +31,7 @@ The projects range from simple beginner exercises to more advanced experiments a
 | 02. Todo App | Basic CRUD application | JavaScript | 🚧 In Progress |
 | 03. Weather App | Fetches weather from an API | JavaScript, API | 📌 Planned |
 | 04. Blog API | REST API for a blog | Python, FastAPI | 📌 Planned |
+| 05. Others | Many More | Diversified | 📌 Planned |
 
 ---
 
