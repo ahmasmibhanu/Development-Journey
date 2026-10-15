@@ -1,6 +1,6 @@
 # Development Learning Repository
 
-A collection of small projects, experiments, exercises, and notes created while learning software development.
+A collection of **small projects, experiments, exercises, and notes** created while learning software development.
 
 ---
 
