@@ -32,7 +32,6 @@ The projects range from simple beginner exercises to more advanced experiments a
 | 03. Weather App | Fetches weather from an API | JavaScript, API | 📌 Planned |
 | 04. Blog API | REST API for a blog | Python, FastAPI | 📌 Planned |
 | 05. Others | Miscellaneous | Multifarious | 📌 Planned |
-| 06. Testing | Misc |
 
 ---
 
